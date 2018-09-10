@@ -2,6 +2,21 @@
 
 Delay information of Tokyu lines
 
+## What's this?
+
+This library is simply parsing Tokyu delay certificate page and check if the train is delayed. It supports all lines of Toyku railway as bellow.
+
+- TY: Toyoko Line
+- MG: Meguro Line
+- DT: Den-en-toshi Line
+- OM: Oimachi Line
+- IK: Ikegami Line
+- TM: Tokyu Tamagawa Line
+- SG: Setagaya Line
+- KD: Kodomonokuni Line
+
+See [reference](https://godoc.org/github.com/nukosuke/go-delay109) for details.
+
 ## Example
 
 ### Code
